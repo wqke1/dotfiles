@@ -51,4 +51,4 @@
   rebase = false
 [user]
 	email = thommasloubet@hotmail.fr
-	name = gh api user/emails | jq -r '.[].email'
+	name = Thomas Loubet
